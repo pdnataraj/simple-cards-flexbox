@@ -10,4 +10,4 @@ Using the html, css and image files will produce the following website:
 
 To view the site live, simply go to:
 
-[https://loquacious-kulfi-0c415c.netlify.app/
+[https://loquacious-kulfi-0c415c.netlify.app/](https://loquacious-kulfi-0c415c.netlify.app/)
