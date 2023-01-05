@@ -8,3 +8,6 @@ Using the html, css and image files will produce the following website:
 
 ![Website Image](./simple-cards-flexbox.png)
 
+To view the site live, simply go to:
+
+[https://loquacious-kulfi-0c415c.netlify.app/5c.netlify.app/)
